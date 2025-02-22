@@ -6,6 +6,6 @@ untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah disp
 
 # dokumentasi output
 ![dokumentasi](Python/dokumentasi/dok1)
-![](CPP/dok2)
+![](CPP/dok2.png)
 
 
