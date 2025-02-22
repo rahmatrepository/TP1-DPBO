@@ -5,3 +5,5 @@ Saya Rahmat taufik al-hidayah dengan NIM 2300414 mengerjakan evaluasi Test Mesin
 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. 
 
 # dokumentasi output
+![dokumentasi](Python/dokumentasi/dok1)
+
